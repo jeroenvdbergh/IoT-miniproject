@@ -24,6 +24,8 @@ $(document).ready(function(){
 
     //console.log(pattern);
 
+    hallo
+
     var data = {
         labels: ["January", "February", "March", "April", "May", "June", "July"],
         datasets: [
